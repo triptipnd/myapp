@@ -45,6 +45,6 @@ This project was extended as part of my assignment to implement a **CI/CD pipeli
 - Deploy to AWS EC2 or Azure VM
 - Setup GitHub webhook for auto-trigger
 
-![Pipeline Success](screenshots/pipeline_success.png)
-![Docker Container](screenshots/docker_ps.png)
-![Website](screenshots/website.png)
+![Pipeline Success](screenshots/pipeline_success.png.png)
+![Docker Container](screenshots/docker_ps.png.png)
+![Website](screenshots/website.png.png)
