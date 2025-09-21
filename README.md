@@ -44,3 +44,7 @@ This project was extended as part of my assignment to implement a **CI/CD pipeli
 - Add database integration
 - Deploy to AWS EC2 or Azure VM
 - Setup GitHub webhook for auto-trigger
+
+![Pipeline Success](screenshots/pipeline_success.png)
+![Docker Container](screenshots/docker_ps.png)
+![Website](screenshots/website.png)
